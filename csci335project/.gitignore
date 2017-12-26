@@ -1,0 +1,8 @@
+.idea
+*.iml
+/csci_project/nbproject/private/
+/build/
+build.xml
+manifest.mf
+nbproject/
+out/

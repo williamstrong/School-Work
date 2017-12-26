@@ -1,0 +1,16 @@
+Files from Mining the Social Web by Matthew Russell 
+(http://shop.oreilly.com/product/0636920030195.do?cmp=af-strata-books-video-product_cj_0636920030195_7133220).
+Workbooks and Python packages are incomplete in this version.
+
+TO USE: Navigate to this directory and run "vagrant up" in your comand prompt. Vagrant
+will install the box and run scripts to set up the virtual machine. This will take a
+few minutes.
+When Vagrant is finished you will see output from Jupyter Notebook which will include a
+URL (if your host machine is Windows replace the ip 0.0.0.0 with 127.0.0.1). Navigate to this URL on
+your machine. 
+Jupyter Notebook requires a password after connecting. This password is: 'csci480'
+After connecting to Jupyter Notebook you will be able to view and run the authors
+notebook. At this time only __Chapter 1 - Mining Twitter (Full-Text Sampler).ipynb is
+fully working.
+Users can create a directory called 'personal' at ./notebooks to create personal
+notebooks that will be unaffected by git when new versions are released.	

@@ -1,0 +1,7 @@
+NetworkGraphs
+    Create JSON handler module.
+    Create Euler module.
+
+    JsonHandler
+        Handles data to/from JSON
+        Gives data in STL containers to other
